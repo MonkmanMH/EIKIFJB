@@ -1,0 +1,95 @@
+---
+title: "EIKIFJB"
+output: html_notebook
+---
+
+This script creates a hex sticker 
+
+
+```{r setup}
+
+library(hexSticker)
+library(showtext)
+
+```
+
+
+Laptop image by andreas160578 from Pixabay; free for commercial use, no attribution required
+
+https://pixabay.com/photos/laptop-burning-fire-stress-support-1895382/
+
+
+Fonts from [Google fonts](http://www.google.com/fonts)
+
+
+
+### Sigmar One
+
+```{r}
+
+## Loading Google fonts (http://www.google.com/fonts)
+font_add_google("Sigmar One", "sigmar")
+## Automatically use showtext to render text for future devices
+showtext_auto()
+
+## 
+sticker("lappy.jpg", package="EIKIFJB",  
+        s_x=1, s_y=0.8, s_width=1.0, s_height=1.0,
+        h_fill = "white", h_color = "#16161D",
+        p_size=24, p_color = "#B22222",
+        p_y = 1.45,
+        p_family = "sigmar", 
+        url = "'Everything I know is from Jenny Bryan' @sharlagelfand",
+        u_angle = 151,
+        u_color = "#B22222",
+        u_size = 3,
+        filename="EIKIFJB_sigmar_hex.png")
+
+```
+
+
+
+
+### Russo One
+
+```{r}
+
+## Loading Google fonts (http://www.google.com/fonts)
+font_add_google("Russo One", "russo")
+## Automatically use showtext to render text for future devices
+showtext_auto()
+
+## 
+sticker("lappy.jpg", package="EIKIFJB",  
+        s_x=1, s_y=0.8, s_width=1.0, s_height=1.0,
+        h_fill = "white", h_color = "#16161D",
+        p_size=26, p_color = "#E24C00",
+        p_y = 1.45,
+        p_family = "russo", 
+        filename="EIKIFJB_russo_hex.png")
+
+```
+
+
+
+
+### Anton
+
+```{r}
+
+## Loading Google fonts (http://www.google.com/fonts)
+font_add_google("Anton", "anton")
+## Automatically use showtext to render text for future devices
+showtext_auto()
+
+## 
+sticker("lappy.jpg", package="EIKIFJB",  
+        s_x=1, s_y=0.8, s_width=1.0, s_height=1.0,
+        h_fill = "white", h_color = "#16161D",
+        p_size=30, p_color = "#4B0082",
+        p_y = 1.45,
+        p_family = "anton", 
+        filename="EIKIFJB_anton_hex.png")
+
+```
+
