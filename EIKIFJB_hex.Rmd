@@ -34,7 +34,7 @@ showtext_auto()
 
 ## 
 sticker("lappy.jpg", package="EIKIFJB",  
-        s_x=1, s_y=0.8, s_width=1.0, s_height=1.0,
+        s_x=1, s_y=0.85, s_width=1.0, s_height=1.0,
         h_fill = "white", h_color = "#16161D",
         p_size=24, p_color = "#B22222",
         p_y = 1.45,
