@@ -21,3 +21,12 @@ The Rmd file EIKIFJB.Rmd uses the [{hexSticker}](https://github.com/GuangchuangY
 ![EIKIFJB](EIKIFJB_sigmar_hex.png)
 
 
+***
+
+**Not So Standard Deviations, Episode 100 (recorded live at rstudio::conf 2020)**
+
+Roger Peng: Jenny's talk was great too. She has an incredible ability to just kind of see that higher level of stuff after having been in the trenches for so long.
+
+Hilary Parker: Exactly. Going into the detail and understanding the nitty-gritty but then being able to zoom out and create the paradigm for it. It's not easy.
+
+
