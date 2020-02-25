@@ -4,6 +4,14 @@
 
 - as spoken at [rstudio:conf 2020](https://sharla.party/talk/2020-01-01-rstudio-conf/)
 
+At the rstudio::conf 2020, Sharla Gelfand gave a presentation with the title ["Don’t repeat yourself, talk to yourself! Repeated reporting in the R universe"](https://sharla.party/talk/2020-01-01-rstudio-conf/), "showcasing opportunities to stop repeating yourself and instead anticipate the needs of and communicate effectively with your future self (or the next person with your job!) using project-oriented workflows, clever interactivity, templated analyses, functions, and yes, your own packages." ([Video is here.](https://resources.rstudio.com/rstudio-conf-2020/dont-repeat-yourself-talk-to-yourself-repeated-reporting-in-the-r-universe-sharla-gelfand
+))
+
+In the Q&A section (at 18' 22" of the video), someone in the audience asked "A lot of your recommendations seem to be software engineering principles. Would you recommend R users have formal education in this field to prevent troubles?" 
+
+Sharla responded with "No, I have no training in software engineering at all. **"Everything I know is from Jenny Bryan.** So I think you're all fine." 
+
+***
 
 Which then prompted this twitter exchange:
 
@@ -20,13 +28,5 @@ The Rmd file EIKIFJB.Rmd uses the [{hexSticker}](https://github.com/GuangchuangY
 
 ![EIKIFJB](EIKIFJB_sigmar_hex.png)
 
-
-***
-
-**Not So Standard Deviations, Episode 100 (recorded live at rstudio::conf 2020)**
-
-Roger Peng: Jenny's talk was great too. She has an incredible ability to just kind of see that higher level of stuff after having been in the trenches for so long.
-
-Hilary Parker: Exactly. Going into the detail and understanding the nitty-gritty but then being able to zoom out and create the paradigm for it. It's not easy.
 
 
