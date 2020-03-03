@@ -1,8 +1,6 @@
 EIKIFJB <img src="EIKIFJB_sigmar_hex.png" align="right" width="300"/>
 ==========================================================
 
-# EIKIFJB
-
 "Everything I know is from Jenny Bryan"—Sharla Gelfand
 
 - as spoken at [rstudio:conf 2020](https://sharla.party/talk/2020-01-01-rstudio-conf/)
