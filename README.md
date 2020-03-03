@@ -1,3 +1,6 @@
+EIKIFJB <img src="EIKIFJB_sigmar_hex.png" align="right" width="300"/>
+==========================================================
+
 # EIKIFJB
 
 "Everything I know is from Jenny Bryan"—Sharla Gelfand
@@ -24,9 +27,5 @@ The burning laptop is a reference to Jenny Bryan's [Project-oriented workflow](h
 ***
 
 The Rmd file EIKIFJB.Rmd uses the [{hexSticker}](https://github.com/GuangchuangYu/hexSticker) package to generate a laptop on fire EIKIFJB sticker.
-
-
-![EIKIFJB](EIKIFJB_sigmar_hex.png)
-
 
 
