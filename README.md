@@ -14,7 +14,9 @@ Sharla responded with "No, I have no training in software engineering at all. **
 
 ***
 
-Which then prompted this twitter exchange:
+@karawoo tweeted the remark, which then prompted this twitter exchange :
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;m currently in the market for a &#39;Everything I know is from Jenny Bryan&#39; sticker for my laptop. Any tips on the best place online to make that happen? <a href="https://t.co/uDyZvJFY6D">https://t.co/uDyZvJFY6D</a> <a href="https://t.co/zePs4olhCO">pic.twitter.com/zePs4olhCO</a></p>&mdash; Hlynur Hallgrímsson (@hlynur) <a href="https://twitter.com/hlynur/status/1224154787316412416?ref_src=twsrc%5Etfw">February 3, 2020</a></blockquote> 
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">What about a hexagon enclosing &quot;EIKIFJB&quot; over a laptop aflame.</p>&mdash; Miles McBain (@MilesMcBain) <a href="https://twitter.com/MilesMcBain/status/1224441486369910786?ref_src=twsrc%5Etfw">February 3, 2020</a></blockquote> 
 
