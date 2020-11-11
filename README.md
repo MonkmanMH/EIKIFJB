@@ -16,7 +16,8 @@ Sharla responded with "No, I have no training in software engineering at all. **
 
 @karawoo tweeted the remark:
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">“Everything I know is from <a href="https://twitter.com/JennyBryan?ref_src=twsrc%5Etfw">@JennyBryan</a>.” —<a href="https://twitter.com/sharlagelfand?ref_src=twsrc%5Etfw">@sharlagelfand</a> <a href="https://twitter.com/hashtag/mood?src=hash&amp;ref_src=twsrc%5Etfw">#mood</a> <a href="https://twitter.com/hashtag/rstudioconf?src=hash&amp;ref_src=twsrc%5Etfw">#rstudioconf</a></p>&mdash; Kara Woo (@kara_woo) <a href="https://twitter.com/kara_woo/status/1222960316545294337?ref_src=twsrc%5Etfw">January 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">“Everything I know is from <a href="https://twitter.com/JennyBryan?ref_src=twsrc%5Etfw">@JennyBryan</a>.” —<a href="https://twitter.com/sharlagelfand?ref_src=twsrc%5Etfw">@sharlagelfand</a> <a href="https://twitter.com/hashtag/mood?src=hash&amp;ref_src=twsrc%5Etfw">#mood</a> <a href="https://twitter.com/hashtag/rstudioconf?src=hash&amp;ref_src=twsrc%5Etfw">#rstudioconf</a></p>&mdash; Kara Woo (@kara_woo) <a href="https://twitter.com/kara_woo/status/1222960316545294337?ref_src=twsrc%5Etfw">January 30, 2020</a></blockquote> 
+
 
 This tweet then prompted this twitter exchange :
 
