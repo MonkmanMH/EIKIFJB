@@ -14,7 +14,11 @@ Sharla responded with "No, I have no training in software engineering at all. **
 
 ***
 
-@karawoo tweeted the remark, which then prompted this twitter exchange :
+@karawoo tweeted the remark:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">“Everything I know is from <a href="https://twitter.com/JennyBryan?ref_src=twsrc%5Etfw">@JennyBryan</a>.” —<a href="https://twitter.com/sharlagelfand?ref_src=twsrc%5Etfw">@sharlagelfand</a> <a href="https://twitter.com/hashtag/mood?src=hash&amp;ref_src=twsrc%5Etfw">#mood</a> <a href="https://twitter.com/hashtag/rstudioconf?src=hash&amp;ref_src=twsrc%5Etfw">#rstudioconf</a></p>&mdash; Kara Woo (@kara_woo) <a href="https://twitter.com/kara_woo/status/1222960316545294337?ref_src=twsrc%5Etfw">January 30, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+This tweet then prompted this twitter exchange :
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;m currently in the market for a &#39;Everything I know is from Jenny Bryan&#39; sticker for my laptop. Any tips on the best place online to make that happen? <a href="https://t.co/uDyZvJFY6D">https://t.co/uDyZvJFY6D</a> <a href="https://t.co/zePs4olhCO">pic.twitter.com/zePs4olhCO</a></p>&mdash; Hlynur Hallgrímsson (@hlynur) <a href="https://twitter.com/hlynur/status/1224154787316412416?ref_src=twsrc%5Etfw">February 3, 2020</a></blockquote> 
 
